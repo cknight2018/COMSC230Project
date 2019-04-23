@@ -1,0 +1,48 @@
+{
+  "Category": {
+    "01": {
+      "Name": "Grill",
+      "Image": "https://boulderlocavore.com/wp-content/uploads/2018/06/1-2.jpg"
+    },
+    "02": {
+      "Name": "Pi",
+      "Image": "https://ewscripps.brightspotcdn.com/dims4/default/acdedb6/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F46%2Fdd%2F92b7575f49d8b60efea599aeb10e%2Fgettyimages-1022591096.jpg"
+    },
+    "03": {
+      "Name": "Sushi",
+      "Image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2015/07/vegan-sushi-rolls-800x533.jpg"
+    },
+    "04": {
+      "Name": "Grab & Go",
+      "Image": "http://frostyqueen.org/wp-content/uploads/2016/06/blt_SANDWHICH.jpg"
+    },
+    "05": {
+      "Name": "Hawk's Deli",
+      "Image": "https://milios.com/wp-content/uploads/2017/10/FAQ-PAGE-SANDWHICH.png"
+    },
+    "06": {
+      "Name": "Salad Bar",
+      "Image": "https://burrinis.com/wp-content/uploads/2018/07/salad-bar-800.jpg"
+    },
+    "07": {
+      "Name": "Beverages",
+      "Image": "https://cdn.schlotzskys.com/-/media/schlotzskys/menu/beverages/coke-products_874x440.jpg?v=1&d=20180223T164426Z"
+    }
+  },
+
+  "User" : {
+    "0988123344" : {
+      "Name" : "Casey",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "Knight",
+      "Password" : "1234"
+    },
+    "9788342900" : {
+      "name" : "Casey Knight",
+      "password" : "1234"
+    }
+  }
+
+}
