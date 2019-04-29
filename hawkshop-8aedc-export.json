@@ -1,0 +1,94 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://boulderlocavore.com/wp-content/uploads/2018/06/1-2.jpg",
+      "Name" : "Grill"
+    },
+    "02" : {
+      "Image" : "https://ewscripps.brightspotcdn.com/dims4/default/acdedb6/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F46%2Fdd%2F92b7575f49d8b60efea599aeb10e%2Fgettyimages-1022591096.jpg",
+      "Name" : "Pi"
+    },
+    "03" : {
+      "Image" : "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2015/07/vegan-sushi-rolls-800x533.jpg",
+      "Name" : "Sushi"
+    },
+    "04" : {
+      "Image" : "https://www.users.miamioh.edu/sheehac5/IMS222/img/ham_sandwhich.jpg",
+      "Name" : "Grab & Go"
+    },
+    "05" : {
+      "Image" : "https://milios.com/wp-content/uploads/2017/10/FAQ-PAGE-SANDWHICH.png",
+      "Name" : "Hawk's Deli"
+    },
+    "06" : {
+      "Image" : "https://burrinis.com/wp-content/uploads/2018/07/salad-bar-800.jpg",
+      "Name" : "Salad Bar"
+    },
+    "07" : {
+      "Image" : "https://cdn.schlotzskys.com/-/media/schlotzskys/menu/beverages/coke-products_874x440.jpg?v=1&d=20180223T164426Z",
+      "Name" : "Beverages"
+    }
+  },
+  "Food" : {
+    "Grill" : {
+      "01" : {
+        "Calories" : "300 Calories",
+        "Image" : "",
+        "Name" : "Hamburger",
+        "Price" : "$5.00"
+      },
+      "02" : {
+        "Calories" : "350 Calories",
+        "Image" : "",
+        "Name" : "Cheeseburger",
+        "Price" : "$5.50"
+      },
+      "03" : {
+        "Calories" : "150 Calories",
+        "Image" : "",
+        "Name" : "French Fries",
+        "Price" : "$2.00"
+      },
+      "04" : {
+        "Calories" : "275 Calories",
+        "Image" : "",
+        "Name" : "Chicken Fingers",
+        "Price" : "$4.00"
+      },
+      "05" : {
+        "Calories" : "300 Calories",
+        "Image" : "",
+        "Name" : "Chicken Sandwich",
+        "Price" : "$4.50"
+      },
+      "06" : {
+        "Calories" : "200 Calories",
+        "Image" : "",
+        "Name" : "Onion Rings",
+        "Price" : "$2.50"
+      }
+    }
+  },
+  "User" : {
+    "0988123344" : {
+      "Name" : "Casey",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "Knight",
+      "Password" : "1234"
+    },
+    "6093482342" : {
+      "Name" : "Emma gribbins",
+      "Password" : "ianzito."
+    },
+    "9485239484" : {
+      "Name" : "Wolfgang Personeus",
+      "Password" : "wp123"
+    },
+    "9788342900" : {
+      "Name" : "Casey Knight",
+      "Password" : "1234"
+    }
+  }
+}
